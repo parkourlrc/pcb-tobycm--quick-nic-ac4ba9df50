@@ -17,6 +17,16 @@ A homemade USB 3 to Gigabit Ethernet adapter. Equipped with RTL8153B and MagJack
 
 ![pcb](assets/pcb.png)
 
+## CAD
+
+![cad1](assets/cad1.png)
+
+![cad2](assets/cad2.png)
+
+![cad3](assets/cad3.png)
+
+![cad4](assets/cad4.png)
+
 ## BOM
 
 | Description | Quantity | Part # | Unit price | Extended Price USD | Product Link |
