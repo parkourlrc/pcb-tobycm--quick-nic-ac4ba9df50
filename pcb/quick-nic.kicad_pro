@@ -731,7 +731,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../cad/quick-nic.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

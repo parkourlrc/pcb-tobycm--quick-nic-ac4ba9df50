@@ -5,6 +5,7 @@
 A homemade USB 3 to Gigabit Ethernet adapter. Equipped with RTL8153B and MagJack connector (integrated magnetics) for small footprint.
 
 [![View PCB on KiCanvas](assets/KiCanvas.png)](https://kicanvas.org/?repo=https://github.com/tobycm/quick-nic/tree/main/pcb)
+[![View 3D on OnShape](assets/OnShape.png)](https://cad.onshape.com/documents/76db18d19584eae420ce66d1/w/3e5d2ab252914a3a432c598c/e/0008cdf089530ea1d758f80c?renderMode=0&uiState=6aee47641b52cd474ed897bc)
 [![View BOM in iBOM](assets/iBom.png)](https://html-preview.github.io/?url=https://github.com/tobycm/quick-nic/blob/main/pcb/bom/ibom.html)
 [![View project on Hack Club Forge](assets/HackClub.png)](https://forge.hackclub.com/projects/2492)
 
